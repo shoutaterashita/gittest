@@ -9,4 +9,3 @@ class test {
 			System.out.println("入力された文章は" + str + "です。");
 	}
 }
-add 変更をインデックスに登録する
